@@ -1,0 +1,27 @@
+Azul Escuro (#13293D):
+Use como cor de fundo do cabeçalho do site ou do menu de navegação.
+Aplique em botões ou elementos de destaque para transmitir confiança e profissionalismo.
+
+Cinza Escuro (#424242):
+Utilize como cor de fundo do corpo do site para destacar o conteúdo principal.
+Aplique em elementos textuais, como títulos e corpo de texto, para garantir uma leitura fácil e clara.
+
+Laranja (#F87600):
+Utilize em botões de chamada para ação (CTA) ou em links importantes.
+Aplique em elementos interativos, como ícones de menus expansíveis ou abas.
+
+Branco (#FFFFFF):
+Use como cor de fundo para a maioria dos elementos do site, como o conteúdo principal e áreas de texto.
+Aplique em áreas de destaque, como caixas de informações ou cards, para criar contraste com o fundo.
+
+Verde Menta (#55D1B6):
+Utilize em botões de confirmação ou de envio de formulários.
+Aplique em elementos de realce, como barras de progresso ou ícones de checkmarks.
+
+Cinza Claro (#D3D3D3):
+Utilize como cor de fundo em áreas secundárias do site, como rodapé ou menus laterais.
+Aplique em elementos de separação, como linhas divisoras entre seções do site.
+Lembre-se de equilibrar o uso das cores para garantir uma experiência visual agradável e coerente em todo o site. Mantenha uma consistência visual e aplique as cores de forma estratégica para guiar o olhar do usuário e destacar elementos importantes.
+
+-------------------------------------------------------------------------
+
